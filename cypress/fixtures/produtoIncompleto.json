@@ -1,0 +1,23 @@
+{
+    "data": 
+    [
+        {
+            "titulo": "Validando cupom de 10% de desconto",
+            "produto": "[CATEGORIA] Produto com categoria principal - 1 Nível",
+            "quantidade": 9,
+            "cupom": "10off"  
+        },
+        {
+            "titulo":"Validando cupom de valor absoluto",
+            "produto": "[CATEGORIA] Produto com categoria principal - 1 Nível",
+            "quantidade": 12,
+            "cupom": "30REAIS"  
+        },
+        {
+            "titulo":"Validando cupom de de 5% de desconto",
+            "produto": "[CATEGORIA] Produto com categoria principal - 1 Nível",
+            "quantidade": 2,
+            "cupom": "AJJFLWBHH"  
+        }
+    ]
+}

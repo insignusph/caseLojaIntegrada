@@ -1,0 +1,29 @@
+{
+    "data": 
+    [
+        {
+            "titulo": "Validando cupom de 10% de desconto",
+            "produto": "Produto com cadastro completo",
+            "quantidade": 15,
+            "cupom": "10off"  
+        },
+        {
+            "titulo":"Validando cupom de valor absoluto",
+            "produto": "Produto com cadastro completo",
+            "quantidade": 7,
+            "cupom": "30REAIS"  
+        },
+        {
+            "titulo":"Validando cupom de 5% de desconto",
+            "produto": "Produto com cadastro completo",
+            "quantidade": 4,
+            "cupom": "AJJFLWBHH"  
+        },
+        {
+            "titulo":"Validando cupom de Frete Grátis",
+            "produto": "Produto com cadastro completo",
+            "quantidade": 9,
+            "cupom": "freteGratis"  
+        }
+    ]
+}

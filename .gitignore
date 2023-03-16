@@ -1,0 +1,10 @@
+# .gitignore
+
+# Arquivos e pastas do Node.js
+node_modules/
+npm-debug.log*
+
+
+# Arquivos e pastas do Cypress
+cypress/screenshots/
+cypress/videos/

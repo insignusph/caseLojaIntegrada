@@ -1,0 +1,29 @@
+{
+    "data": 
+        [
+            {
+                "titulo": "Validando cupom de 10% de desconto",
+                "produto1": "[CATEGORIA] Produto com categoria principal - 1 Nível",
+                "produto2": "Produto com cadastro completo",
+                "quantidade": 9,
+                "cupom": "10off",
+                "idProduto": "118475092"
+            },
+            {
+                "titulo":"Validando cupom de valor absoluto",
+                "produto1": "[DESTAQUE] Produto em destaque",
+                "produto2": "[CATEGORIA] Produto com categoria principal - 1 Nível",
+                "quantidade": 11,
+                "cupom": "30REAIS",
+                "idProduto": "118475038"  
+            },
+            {
+                "titulo":"Validando cupom de de 5% de desconto",
+                "produto1": "[CATEGORIA] Produto com categoria principal - 1 Nível",
+                "produto2": "[IMAGEM] Produto com 10 imagens",
+                "quantidade": 2,
+                "cupom": "AJJFLWBHH",
+                "idProduto": "118475094"
+            }
+        ]
+}
